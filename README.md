@@ -1,6 +1,6 @@
 ## 3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation
 
-This is a Python 3 implementation of 3PCv{1,2,3,4,5}, EF21, MARINA, GD, CLAG algorithms from the [paper](https://arxiv.org/abs/2202.00998).
+This repository contains Python 3 source code for the experimental part of the paper titled *"3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation"* ([arXiv](https://arxiv.org/abs/2202.00998), [ICML](https://proceedings.mlr.press/v162/richtarik22a.html)).
 
  ### Reference
  In case you find the paper or code useful for your research, please consider citing it in your work.
