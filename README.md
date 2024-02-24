@@ -3,14 +3,16 @@
 This is a Python 3 implementation of 3PCv{1,2,3,4,5}, EF21, MARINA, GD, CLAG algorithms from the [paper](https://arxiv.org/abs/2202.00998).
 
  ### Reference
- In case you find the method or code useful for your research, please consider citing
+ In case you find the paper or code useful for your research, please consider citing it in your work.
 
  ```
-@article{richtarik20223pc,
+@inproceedings{richtarik20223pc,
   title={3PC: Three point compressors for communication-efficient distributed training and a better theory for lazy aggregation},
-  author={Richt{\'a}rik, Peter and Sokolov, Igor and Fatkhullin, Ilyas and Gasanov, Elnur and Li, Zhize and Gorbunov, Eduard},
-  journal={arXiv preprint arXiv:2202.00998},
-  year={2022}
+  author={Richt{\'a}rik, Peter and Sokolov, Igor and Gasanov, Elnur and Fatkhullin, Ilyas and Li, Zhize and Gorbunov, Eduard},
+  booktitle={International Conference on Machine Learning},
+  pages={18596--18648},
+  year={2022},
+  organization={PMLR}
 }
 
  ```
